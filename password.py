@@ -4,7 +4,7 @@
 # 最多輸入3次
 # 如果正確 就印出 "登入成功"
 # 如果不正確 就印出"密碼錯誤! 還有_次機會!"
-password = "a123456"
+password = "a12345"
 chance = 2
 while chance > -1:
     pwd = input ("請輸入密碼:")
